@@ -11,4 +11,9 @@ accountCity = "Mohali"
 
 console.log(accountId);
 
+
+/*
+Prefer not to use vat
+because of issue in block scope and functional scope 
+*/
 console.table([accounEmail, accountId, accountPassword, accountCity])
