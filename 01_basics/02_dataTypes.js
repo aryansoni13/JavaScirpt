@@ -15,7 +15,7 @@ let state;
 // bigint 
 // string ==> " " or ' '
 // boolean ==> either true or false 
-// null ==> stans alone value 
+// null ==> stand alone value 
 // undiefind  ==>
 // symbol ==> unique 
 
