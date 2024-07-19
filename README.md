@@ -1,7 +1,5 @@
 # JavaScirpt
 
-# JavaScript Course Repository
-
 Welcome to the JavaScript Course Repository! This repository contains the code and resources for the JavaScript course by Hitesh Choudhary. It's a great place to start if you're learning JavaScript or want to refer back to specific examples and exercises from the course.
 
 ## Table of Contents
@@ -102,7 +100,7 @@ To contribute:
 
     ```sh
     git add .
-    git commit -m "Add your commit message here"
+    git commit -m 
     ```
 
 5. **Push to your forked repository:**
