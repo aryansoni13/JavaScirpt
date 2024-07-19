@@ -29,7 +29,7 @@ Follow these steps to get started with the repository:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/js-course-repo.git
+    git clone https://github.com/aryansoni13/js-course-repo.git
     ```
 
 2. **Navigate to the repository directory:**
@@ -87,13 +87,7 @@ To contribute:
 2. **Clone your forked repository:**
 
     ```sh
-    git clone https://github.com/your-username/js-course-repo.git
-    ```
-
-3. **Create a new branch:**
-
-    ```sh
-    git checkout -b feature/your-feature-name
+    git clone https://github.com/aryansoni13/JavaSciprt.git
     ```
 
 4. **Make your changes and commit them:**
@@ -103,17 +97,11 @@ To contribute:
     git commit -m 
     ```
 
-5. **Push to your forked repository:**
-
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-
 6. **Create a pull request:**
 
     Go to the original repository on GitHub, and you should see an option to create a pull request from your new branch.
 
 ---
 
-Happy coding and enjoy the course!
+Happy coding!
 
